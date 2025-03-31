@@ -1,5 +1,5 @@
 <?php
-$numeros = array(10,4,3);
+$numeros = array(10,4,3,50,23,90);
 
 
 
